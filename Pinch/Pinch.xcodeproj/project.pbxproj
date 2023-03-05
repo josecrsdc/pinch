@@ -12,6 +12,7 @@
 		82B5BF5B29B2B732009BC696 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82B5BF5A29B2B732009BC696 /* Assets.xcassets */; };
 		82B5BF5E29B2B732009BC696 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82B5BF5D29B2B732009BC696 /* Preview Assets.xcassets */; };
 		82B5BF6A29B36F6C009BC696 /* InfoPanelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B5BF6929B36F6C009BC696 /* InfoPanelView.swift */; };
+		82B5BF6C29B54EA6009BC696 /* ControllImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B5BF6B29B54EA6009BC696 /* ControllImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		82B5BF5A29B2B732009BC696 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		82B5BF5D29B2B732009BC696 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		82B5BF6929B36F6C009BC696 /* InfoPanelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPanelView.swift; sourceTree = "<group>"; };
+		82B5BF6B29B54EA6009BC696 /* ControllImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				82B5BF6929B36F6C009BC696 /* InfoPanelView.swift */,
+				82B5BF6B29B54EA6009BC696 /* ControllImageView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				82B5BF5929B2B731009BC696 /* ContentView.swift in Sources */,
+				82B5BF6C29B54EA6009BC696 /* ControllImageView.swift in Sources */,
 				82B5BF5729B2B731009BC696 /* PinchApp.swift in Sources */,
 				82B5BF6A29B36F6C009BC696 /* InfoPanelView.swift in Sources */,
 			);
